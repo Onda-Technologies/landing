@@ -347,13 +347,6 @@ li + li {
   font-size: 1.0625rem;
 }
 
-.intro-tagline {
-  font-family: var(--font-display);
-  font-size: clamp(1.25rem, 2.5vw, 1.75rem);
-  color: var(--color-text) !important;
-  margin-top: 2rem !important;
-}
-
 .cta-band {
   background: linear-gradient(135deg, var(--color-accent-dark) 0%, var(--color-accent) 100%);
   color: #fff;
