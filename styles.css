@@ -266,8 +266,7 @@ li + li {
 .eyebrow {
   font-size: 0.8125rem;
   font-weight: 600;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
+  letter-spacing: 0.02em;
   color: var(--color-accent);
   margin-bottom: 1rem;
 }
